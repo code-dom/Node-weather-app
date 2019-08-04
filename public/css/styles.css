@@ -31,6 +31,10 @@ header a {
   color: #888888;
   margin-right: 16px;
 }
+
+header a:hover {
+  color: #333333;
+}
 .about-img {
   width: 250px;
 }
